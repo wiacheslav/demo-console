@@ -1,0 +1,1 @@
+INSERT INTO users (`id`, `name`, `email`, `password`, `role`) VALUES (0, 'Admin', 'admin', '$2a$10$rUE.w6efqKhEO.gTcqVcAujY/93CizARYI.SLBRnuiJNRZrlJPdHy', 'ADMIN');

@@ -1,0 +1,2 @@
+rootProject.name = 'demo-console'
+include 'web-ui'

@@ -20,5 +20,5 @@ node {
 task build(type: NpmTask, dependsOn: 'npm_install') {
   group = BasePlugin.BUILD_GROUP
   description = 'Build frontend folder for production'
-  args = ['run', 'build', '--prod']
+  args = ['run', 'build-prod']
 }
